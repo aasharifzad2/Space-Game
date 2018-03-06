@@ -52,7 +52,7 @@ playerspeed = 15
 #######################
 
 #Choose number of enemies
-number_of_enemies = 5
+number_of_enemies = 7
 #Create empty list of enemies
 enemies = []
 
